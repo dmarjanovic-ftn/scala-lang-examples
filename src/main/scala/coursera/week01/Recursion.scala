@@ -1,4 +1,4 @@
-package week01
+package coursera.week01
 
 object Recursion {
   def main(args: Array[String]) {
